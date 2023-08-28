@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-learning-emotion-diary/static/css/main.077dd7c1.css",
+    "main.js": "/react-learning-emotion-diary/static/js/main.e5e7172f.js",
+    "index.html": "/react-learning-emotion-diary/index.html",
+    "main.077dd7c1.css.map": "/react-learning-emotion-diary/static/css/main.077dd7c1.css.map",
+    "main.e5e7172f.js.map": "/react-learning-emotion-diary/static/js/main.e5e7172f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077dd7c1.css",
+    "static/js/main.e5e7172f.js"
+  ]
+}
